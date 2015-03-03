@@ -17,7 +17,7 @@ module.exports = (grunt) ->
     #   if index < buffer
     #     url = _.first element
     #     url = url.childs[0]
-    #     screens.push({src: url, dest: "wervik/wervik-#{url.substr(24)}.png", delay: 0})
+    #     screens.push({src: url, dest: "screenshots/screenshot-#{url.substr(24)}.png", delay: 0})
 
 
   # PROJECT CONFIGURATION.
